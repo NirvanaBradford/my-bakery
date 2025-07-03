@@ -1,0 +1,7 @@
+body {
+  display: flex;
+}
+
+nav a {
+  flex-direction: row-reverse;
+}
